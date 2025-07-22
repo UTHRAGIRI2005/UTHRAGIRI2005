@@ -123,13 +123,14 @@ _**React is the only place where 'state' is a good thing.**_
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=UTHRAGIRI2005&show_icons=true&locale=en" alt="GitHub Stats" />
+  
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UTHRAGIRI2005&" alt="Streak Stats" />
 </p>
  <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Uthragiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=uthragirimuthu&theme=dark&show_icons=true&&hide=issues,contribs)
+
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/uthragiri?theme=dark&font=Marcellus&ext=contest)](https://leetcode.com/uthragiri)
 
