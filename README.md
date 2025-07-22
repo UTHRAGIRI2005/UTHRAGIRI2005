@@ -139,7 +139,6 @@ _**React is the only place where 'state' is a good thing.**_
 ---
 ### 🎉 Little About Me
 
-- 🧾 I’ve published a poetry book in school 🎓
 - 💡 I enjoy creating new UIs like recipes 👨‍🍳
 - 🎯 I'm goal-oriented & a team collaborator 🤝
 - ✨ I believe code is a form of art 🎨
