@@ -91,7 +91,7 @@ _**React is the only place where 'state' is a good thing.**_
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/uthragiri-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithrav2003" height="30" width="40" /></a>
-<a href="mailto:uthragiri1@gmail.com"><img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c5af47d-0ce3-4365-a097-c17fec609620/da3xgqq-e43bcfcf-cadb-45ec-a4be-3ce0779fc870.png/v1/fill/w_1024,h_792/gmail__product_sans_logo_concept__by_cosmcala_da3xgqq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzkyIiwicGF0aCI6IlwvZlwvOGM1YWY0N2QtMGNlMy00MzY1LWEwOTctYzE3ZmVjNjA5NjIwXC9kYTN4Z3FxLWU0M2JjZmNmLWNhZGItNDVlYy1hNGJlLTNjZTA3NzlmYzg3MC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jV5OCFQjzk_8In7i3V21GFhEXvkWXE7r3BvGwLYAEP8" alt="paviv592003@gmail.com" height="60" width="70" /></a>
+<a href="mailto:uthragiri1@gmail.com"><img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c5af47d-0ce3-4365-a097-c17fec609620/da3xgqq-e43bcfcf-cadb-45ec-a4be-3ce0779fc870.png/v1/fill/w_1024,h_792/gmail__product_sans_logo_concept__by_cosmcala_da3xgqq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzkyIiwicGF0aCI6IlwvZlwvOGM1YWY0N2QtMGNlMy00MzY1LWEwOTctYzE3ZmVjNjA5NjIwXC9kYTN4Z3FxLWU0M2JjZmNmLWNhZGItNDVlYy1hNGJlLTNjZTA3NzlmYzg3MC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jV5OCFQjzk_8In7i3V21GFhEXvkWXE7r3BvGwLYAEP8" alt="uthragiri1@gmail.com" height="60" width="70" /></a>
 </p>
 
 
@@ -135,7 +135,7 @@ _**React is the only place where 'state' is a good thing.**_
 [![LeetCode Stats](https://leetcard.jacoblin.cool/uthragiri?theme=dark&font=Marcellus&ext=contest)](https://leetcode.com/uthragiri)
 
 
-[![Uthragiri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uthragirimuthu&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Uthragiri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UTHRAGIRI2005&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 ### 🎉 Little About Me
 
