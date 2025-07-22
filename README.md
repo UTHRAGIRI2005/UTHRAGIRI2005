@@ -28,7 +28,7 @@ _**React is the only place where 'state' is a good thing.**_
 ---
 ### 📁 My GitHub Repositories
 
-[![GitHub Repos](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavi2003-eng?tab=repositories)
+[![GitHub Repos](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UTHRAGIRI2005?tab=repositories)
 
 ---
 
@@ -87,7 +87,7 @@ _**React is the only place where 'state' is a good thing.**_
 <a href="mailto:uthragiri1@gmail.com"><img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c5af47d-0ce3-4365-a097-c17fec609620/da3xgqq-e43bcfcf-cadb-45ec-a4be-3ce0779fc870.png/v1/fill/w_1024,h_792/gmail__product_sans_logo_concept__by_cosmcala_da3xgqq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzkyIiwicGF0aCI6IlwvZlwvOGM1YWY0N2QtMGNlMy00MzY1LWEwOTctYzE3ZmVjNjA5NjIwXC9kYTN4Z3FxLWU0M2JjZmNmLWNhZGItNDVlYy1hNGJlLTNjZTA3NzlmYzg3MC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jV5OCFQjzk_8In7i3V21GFhEXvkWXE7r3BvGwLYAEP8" alt="paviv592003@gmail.com" height="60" width="70" /></a>
 </p>
 
----
+
 
 
 
