@@ -80,14 +80,6 @@ _**React is the only place where 'state' is a good thing.**_
 
 ---
 
-### 🏅 Certifications
-
-- 📡 Introduction to **CCNA V7 – Cisco**
-- 🐍 **Python 3.x** Programming Hands-On [Certificate Link](https://www.skillrack.com/cert/493018/PVV)
-- 💾 **SQL Basics** [Certificate Link](https://www.skillrack.com/cert/490669/EKG)
-- 🔗 SkillRack:  Total Program Solved: 910 
-
----
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -123,10 +115,10 @@ _**React is the only place where 'state' is a good thing.**_
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavi2003-eng&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UTHRAGIRI2005&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavi2003-eng&" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UTHRAGIRI2005&" alt="Streak Stats" />
 </p>
 
 ---
